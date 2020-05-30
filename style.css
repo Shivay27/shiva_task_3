@@ -1,0 +1,143 @@
+
+            #background-image
+            {
+                background-image: url('BB.jpg');
+                margin-top:30px; 
+                width:1420px;
+                height:400px;
+                color:white;
+                padding-top: 50px;
+                margin-left:40px;
+
+            }
+#name
+{
+    color:#F39C12;
+    font-family: cursive;
+        font-size:35px;
+        font-weight: bold;
+    
+}
+#name_n
+{
+     color: #A04000;
+    font-family: cursive;
+        font-size:15px;
+        font-weight: bold;   
+}
+            li{
+                list-style-type: none;
+                  text-decoration:none;
+            }
+            li a
+            {
+                display: block;
+                padding: 14px 16px;
+                text-decoration:none;
+                color:#666;
+                float:right;
+                font-family: cursive;
+                font-size: 18px;
+                 font-weight: bold;
+            }
+             p{
+                font-family: cursive;
+                font-size: 20px;
+                font-weight: bold;
+                color:white;
+                text-align: center;
+            }
+
+            .card
+            {
+                width: 250px;
+                background-color:white;
+                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+                
+                margin-top: 40px;
+                margin-left: 600px;
+            }
+         
+ .logo{
+                height: 30px;
+                float:left;
+                padding: 5px;
+            }
+            #header{
+
+                padding: 10px 0px;
+                border-bottom: 1.5px solid;
+                border-bottom-color: #666;
+                height: 60px;
+
+            }
+            #logo1{
+                height:40px;
+                margin-left: 20px;
+            }
+            #BB{
+                margin-top: 30px;
+                margin-left: 130px;
+                height:450px;
+                width: 1200px;
+                color:#666;
+            }
+
+            #content{
+                background-color: rgba(0,0,0,0.3);
+                font-weight: bold;
+                font-family: cursive;
+                font-size:25px;
+                word-spacing: 25px;
+                margin-top: 50px;
+                padding: 30px 20px;
+                max-width: 480px;
+            } 
+            footer {
+  text-align: center;
+  padding: 3px;
+  background-color:black;
+  color: white;
+ 
+}
+.blockquote{
+   color: gainsboro;
+   background-color: white;
+}
+
+            p{
+                font-family: cursive;
+                font-size: 20px;
+                font-weight: bold;
+                color:black;
+                text-align: center;
+                padding: 5px;
+            }
+            
+            #img1{
+                padding: 10px;
+                margin: 2px;
+                margin-left: 25px;
+                 margin-top: 10px;
+            }
+            h4{
+                font-family: cursive;
+                font-size: 20px;
+                font-weight: bold;
+                color:black;
+                padding: 5px;  
+            }
+        
+             
+.national_selected
+{
+   margin-right:70px;
+}
+.blockquote_para
+{
+   font-family: cursive;
+                font-size: 16px;
+                font-weight: bold;
+                color:black;
+                   
+}
